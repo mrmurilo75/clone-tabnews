@@ -1,0 +1,24 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "This is a clone of https://tabnews.com.br as a project for the course https://curso.dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrmurilo75/clone-tabnews.git"
+  },
+  "author": "mrmurilo75",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrmurilo75/clone-tabnews/issues"
+  },
+  "homepage": "https://github.com/mrmurilo75/clone-tabnews#readme",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
